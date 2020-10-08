@@ -1,0 +1,6 @@
+﻿  RE.cpp
+C:\Users\yan\Desktop\编程学习\编译器\词法分析器\自动的词法分析器\RE\Regular_expression\Regular_expression\RE.cpp(121,20): warning C4018: “<”: 有符号/无符号不匹配
+  RegularElement.cpp
+  正在生成代码...
+C:\Users\yan\Desktop\编程学习\编译器\词法分析器\自动的词法分析器\RE\Regular_expression\Regular_expression\RE.cpp(136,21): warning C4018: “<”: 有符号/无符号不匹配
+  Regular_expression.vcxproj -> C:\Users\yan\Desktop\编程学习\编译器\词法分析器\自动的词法分析器\RE\Regular_expression\Debug\Regular_expression.exe
